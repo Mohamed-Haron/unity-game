@@ -1,0 +1,110 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 15063.1387; Version 1703; 64bit' Language: 'en' Physical Memory: 7845 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/EGYPT_LAPTOP/New Unity Project
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+54822
+Successfully changed project path to: C:/Users/EGYPT_LAPTOP/New Unity Project
+C:/Users/EGYPT_LAPTOP/New Unity Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 185.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/EGYPT_LAPTOP/New Unity Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   
+    VRAM:     3922 MB
+    Driver:   23.20.16.4973
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56592
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003047 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 72.16 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.124 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001514 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 37.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.175 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.1 MB.
+System memory in use after: 92.0 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2414.
+Total: 3.582971 ms (FindLiveObjects: 0.315116 ms CreateObjectMapping: 0.124916 ms MarkObjects: 2.961991 ms  DeleteObjects: 0.179406 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/spritesheet.png
+  artifactKey: Guid(7c97cce18b0c8d64db654b25f3f69338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/spritesheet.png using Guid(7c97cce18b0c8d64db654b25f3f69338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8b6aa0aaa1903f73a6329d0c4a3066e') in 0.642909 seconds
+  Import took 0.648956 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 140.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.3 MB.
+System memory in use after: 55.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2435.
+Total: 3.225188 ms (FindLiveObjects: 0.215390 ms CreateObjectMapping: 0.089446 ms MarkObjects: 2.801092 ms  DeleteObjects: 0.118233 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 134.687721 seconds.
+  path: Assets/bacground.jpg
+  artifactKey: Guid(faf25fc536af5454ea4b0bf4d539ccbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/bacground.jpg using Guid(faf25fc536af5454ea4b0bf4d539ccbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14b1b52f6dde7faa52b95c60bf7bc0f4') in 0.023452 seconds
+  Import took 0.028507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004683 seconds.
+  path: Assets/bacground.jpg
+  artifactKey: Guid(faf25fc536af5454ea4b0bf4d539ccbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/bacground.jpg using Guid(faf25fc536af5454ea4b0bf4d539ccbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14b1b52f6dde7faa52b95c60bf7bc0f4') in 0.048625 seconds
+  Import took 0.052992 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
